@@ -9,3 +9,4 @@
 ## Funciones que se implementaron en el proyecto:
 En este proyecto implementamos redes neuranales de la libreria de keras junto con la implementaicon de sklearn
 donde es mas facil ver la distribucion de los datos.
+![](/images/project1/descarga.png)
